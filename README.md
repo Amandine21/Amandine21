@@ -1,4 +1,4 @@
-<h1>Hello there! I'm Alexander! <br/><a href="https://github.com/Amandine21/Amandine21/blob/main/README.md">Programmer</a>, <a href="https://www.linkedin.com/in/alexander-hanks-859869233/">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/alexander-hanks-859869233/">Computer Engineer</a></h1>
+<h1>Hello There! I'm Alexander! <br/><a href="https://github.com/Amandine21/Amandine21/blob/main/README.md">Programmer</a>, <a href="https://www.linkedin.com/in/alexander-hanks-859869233/">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/alexander-hanks-859869233/">Computer Engineer</a></h1>
 
 <h2>🏫Texas A&M Computer Science Projects:</h2>
 
