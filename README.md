@@ -1,4 +1,4 @@
-<h1>Hello there! I'm Alexander! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a>,</h1>
+<h1>Hello there! I'm Alexander! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a>, Engineer</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
