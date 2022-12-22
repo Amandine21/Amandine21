@@ -18,7 +18,7 @@
 - <b>Paella Point of Sale System</b>
 <h2>💻Computer Enthusiast Projects</h2>
 
-- [Law and Policy Cybersecurity Papers] (https://github.com/Amandine21/Law-and-Policy-Cybersecurity-Papers)
+- [Law and Policy Cybersecurity Papers](https://github.com/Amandine21/Law-and-Policy-Cybersecurity-Papers)
 - Computer Case Mod Deisgn
 - [Basic Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - Recepie Program
