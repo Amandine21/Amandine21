@@ -12,7 +12,7 @@
 - [Law and Policy Cybersecurity Papers](https://github.com/Amandine21/Law-and-Policy-Cybersecurity-Papers)
 - [Computer Case Mod Design](https://github.com/Amandine21/Computer-Case-Mod-Design)
 - [Basic Keylogger](https://github.com/Amandine21/Keylogger)
-- [Brute Force Program](https://github.com/Amandine21/Brute-Force)
+- [Brute Force Programs](https://github.com/Amandine21/Brute-Force)
 - Recepie Program
 <h2> 🤳 Connect with me:</h2>
 
