@@ -31,8 +31,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/joshmadakor/](https://www.instagram.com/?next=%2F
-[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/alexander-hanks-859869233/
+[instagram]: https://www.instagram.com/?next=%2F
+[linkedin]: https://www.linkedin.com/in/alexander-hanks-859869233/
 
 <!--
 **Amandine21/Amandine21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
