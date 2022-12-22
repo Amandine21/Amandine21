@@ -1,6 +1,6 @@
 <h1>Hello there! I'm Alexander! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/alexander-hanks-859869233/">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/alexander-hanks-859869233/">Computer Engineer</a></h1>
 
-<h2>👨‍💻 Texas A&M Computer Science Projects:</h2>
+<h2>🏫Texas A&M Computer Science Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
