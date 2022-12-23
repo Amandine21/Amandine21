@@ -29,7 +29,8 @@
 - [Recipe program](https://github.com/Amandine21/Recipe-Program)
 <h2> 🤳 Connect with me:</h2>
 
-
+[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/?next=%2F](https://www.instagram.com/sci_fi_hippie/?next=%2F
 [linkedin]: https://www.linkedin.com/in/alexander-hanks-859869233/
