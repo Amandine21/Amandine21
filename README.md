@@ -3,7 +3,7 @@
 <h2>🏫Texas A&M Computer Science Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
-   - [Merge Sort Algorithm Explanation](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Merge Sort Algorithm Explanation](https://drive.google.com/file/d/1jj2wmlsVbWx0DC7CtPpPpjg9otzTWjNx/view?usp=share_link)
 - <b>Indroduction To Computer Systems</b>
    - [Client Server](https://github.com/Amandine21/Client-Server)
    - [Command Shell](https://github.com/Amandine21/Shell/tree/main)
