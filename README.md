@@ -12,6 +12,7 @@
    - [TCP Server](https://github.com/Amandine21/TCP-Server)
 - <b>Computer Architecture Design</b>
 - <b>Paella Point of Sale System</b>
+   - [Powered By Paella](https://github.com/jamsterwes/powered-by-paella-p2)
 <h2>💻Computer Enthusiast Projects</h2>
 
 - [Law and Policy Cybersecurity Papers](https://github.com/Amandine21/Law-and-Policy-Cybersecurity-Papers)
