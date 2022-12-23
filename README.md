@@ -13,7 +13,7 @@
 - [Computer Case Mod Design](https://github.com/Amandine21/Computer-Case-Mod-Design)
 - [Basic Keylogger](https://github.com/Amandine21/Keylogger)
 - [Brute Force Programs](https://github.com/Amandine21/Brute-Force)
-- Recepie Program
+- [Recipe program](https://github.com/Amandine21/Recipe-Program)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
