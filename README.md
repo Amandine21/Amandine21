@@ -3,7 +3,7 @@
 <h2>🏫Texas A&M Computer Science Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Indroduction To Computer Systems</b>
 - <b>Computer Architecture Design</b>
 - <b>Microprocessor Design</b>
