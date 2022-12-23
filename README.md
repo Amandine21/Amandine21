@@ -16,7 +16,7 @@
 - <b>Paella Point of Sale System</b>
    - [Project Design and Management](https://docs.google.com/document/d/1vxcXe8Xdb8K_RLmN4cRNHnzPfYylV7cM-h9z43QWqhU/edit)
    - [Introduction Presentation](https://docs.google.com/presentation/d/149xDSlsv8YRNjo35hiDskQCbwlUKfEXA_Uj7QRgv3fg/edit?usp=sharing)
-   - [The Store Items](https://docs.google.com/document/d/1SmcvsxHmLnawCZt0h6PPNcyqcOAZZYatXftpj-qO4Bo/edit?usp=sharing)
+   - [The Store Items](https://drive.google.com/drive/folders/1XUvAgSVXlvbhaD-aUIyeNR-HR0asICCa?usp=sharing)
    - [Database Design](https://docs.google.com/document/d/1SmcvsxHmLnawCZt0h6PPNcyqcOAZZYatXftpj-qO4Bo/edit?usp=sharing)
    - [Final Product Presentation](https://docs.google.com/presentation/d/1zVgCgwnZYtRhSTP4x4GUqI4CileVbwRWa8jCZCL2JX0/edit?usp=sharing)
    - [Powered By Paella - Final Product](https://github.com/jamsterwes/powered-by-paella-p2)
