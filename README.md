@@ -4,6 +4,7 @@
 
 - <b>Data Structures and Algorithms</b>
    - [Merge Sort Algorithm Explanation](https://drive.google.com/file/d/1jj2wmlsVbWx0DC7CtPpPpjg9otzTWjNx/view?usp=share_link)
+   - Current Working to get These Files
 - <b>Indroduction To Computer Systems</b>
    - [Client Server](https://github.com/Amandine21/Client-Server)
    - [Command Shell](https://github.com/Amandine21/Shell/tree/main)
@@ -11,6 +12,7 @@
    - [IPC Methods](https://github.com/Amandine21/IPC)
    - [TCP Server](https://github.com/Amandine21/TCP-Server)
 - <b>Computer Architecture Design</b>
+   - Current Working to get These Files
 - <b>Paella Point of Sale System</b>
    - [Project Design and Management](https://docs.google.com/document/d/1vxcXe8Xdb8K_RLmN4cRNHnzPfYylV7cM-h9z43QWqhU/edit)
    - [Introduction Presentation](https://docs.google.com/presentation/d/149xDSlsv8YRNjo35hiDskQCbwlUKfEXA_Uj7QRgv3fg/edit?usp=sharing)
