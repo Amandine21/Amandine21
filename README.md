@@ -7,9 +7,9 @@
 - <b>Indroduction To Computer Systems</b>
    - [Client Server](https://github.com/Amandine21/Client-Server)
    - [Command Shell](https://github.com/Amandine21/Shell/tree/main)
-   - [Threading and Synchrnization](https://github.com/joshmadakor1/Algorithms-Practice)
-   - [IPC Methods](https://github.com/joshmadakor1/Algorithms-Practice)
-   - [TCP Server](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Threading and Synchrnization](https://github.com/Amandine21/threading-and-synchronization-)
+   - [IPC Methods](https://github.com/Amandine21/IPC)
+   - [TCP Server](https://github.com/Amandine21/TCP-Server)
 - <b>Computer Architecture Design</b>
 - <b>Paella Point of Sale System</b>
 <h2>💻Computer Enthusiast Projects</h2>
