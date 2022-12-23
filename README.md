@@ -6,7 +6,7 @@
    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Indroduction To Computer Systems</b>
    - [Client Server](https://github.com/Amandine21/Client-Server)
-   - [Command Shell](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Command Shell](https://github.com/Amandine21/Shell/tree/main)
    - [Threading and Synchrnization](https://github.com/joshmadakor1/Algorithms-Practice)
    - [IPC Methods](https://github.com/joshmadakor1/Algorithms-Practice)
    - [TCP Server](https://github.com/joshmadakor1/Algorithms-Practice)
