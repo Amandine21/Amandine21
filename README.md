@@ -13,6 +13,7 @@
 - <b>Computer Architecture Design</b>
 - <b>Paella Point of Sale System</b>
    - [Powered By Paella](https://github.com/jamsterwes/powered-by-paella-p2)
+   - [Presentation](https://docs.google.com/presentation/d/149xDSlsv8YRNjo35hiDskQCbwlUKfEXA_Uj7QRgv3fg/edit?usp=sharing)
 <h2>💻Computer Enthusiast Projects</h2>
 
 - [Law and Policy Cybersecurity Papers](https://github.com/Amandine21/Law-and-Policy-Cybersecurity-Papers)
