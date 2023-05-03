@@ -20,6 +20,8 @@
    - [Database Design](https://docs.google.com/document/d/1SmcvsxHmLnawCZt0h6PPNcyqcOAZZYatXftpj-qO4Bo/edit?usp=sharing)
    - [Final Product Presentation](https://docs.google.com/presentation/d/1zVgCgwnZYtRhSTP4x4GUqI4CileVbwRWa8jCZCL2JX0/edit?usp=sharing)
    - [Powered By Paella - Final Product](https://github.com/jamsterwes/powered-by-paella-p2)
+- <b>Local Face</b>
+   - [Product Presentation](https://docs.google.com/presentation/d/1BItvSHq9hRFZhxO3oyzrjcoZG3OOGrKU/edit#slide=id.p1)
 <h2>💻Computer Enthusiast Projects</h2>
 
 - [Law and Policy Cybersecurity Papers](https://github.com/Amandine21/Law-and-Policy-Cybersecurity-Papers)
