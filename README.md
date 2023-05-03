@@ -21,7 +21,7 @@
    - [Final Product Presentation](https://docs.google.com/presentation/d/1zVgCgwnZYtRhSTP4x4GUqI4CileVbwRWa8jCZCL2JX0/edit?usp=sharing)
    - [Powered By Paella - Final Product](https://github.com/jamsterwes/powered-by-paella-p2)
 - <b>Local Face</b>
-   - [Product Presentation](https://docs.google.com/presentation/d/1BItvSHq9hRFZhxO3oyzrjcoZG3OOGrKU/edit#slide=id.p1)
+   - [Product Presentation](https://docs.google.com/presentation/d/1BItvSHq9hRFZhxO3oyzrjcoZG3OOGrKU/edit?usp=sharing&ouid=116221006675226095276&rtpof=true&sd=true)
    - [Demo Video](https://drive.google.com/file/d/1eIfNMpCnP4Nxpx6dKg-w2z6HiwWoUcgd/view?usp=share_link)
    - [User Interviews](https://drive.google.com/drive/folders/1D0aFNBuJw6fPXPyHWR9oc1LYAHQ7RVPU?usp=sharing)
 <h2>💻Computer Enthusiast Projects</h2>
