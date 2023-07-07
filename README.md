@@ -11,8 +11,10 @@
    - [Threading and Synchrnization](https://github.com/Amandine21/threading-and-synchronization-)
    - [IPC Methods](https://github.com/Amandine21/IPC)
    - [TCP Server](https://github.com/Amandine21/TCP-Server)
-- <b>Computer Architecture Design</b>
-   - Current Working to get These Files
+- <b>Cloud Computing</b>
+   - [Virtualization]
+   - [Load Balancer]
+   - [AWS Secured Static Website]
 - <b>Paella Point of Sale System</b>
    - [Project Design and Management](https://docs.google.com/document/d/1vxcXe8Xdb8K_RLmN4cRNHnzPfYylV7cM-h9z43QWqhU/edit)
    - [Introduction Presentation](https://docs.google.com/presentation/d/149xDSlsv8YRNjo35hiDskQCbwlUKfEXA_Uj7QRgv3fg/edit?usp=sharing)
