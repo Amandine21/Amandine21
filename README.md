@@ -13,7 +13,7 @@
    - [TCP Server](https://github.com/Amandine21/TCP-Server)
 - <b>Cloud Computing</b>
    - [Virtualization]
-   - [Load Balancer]
+   - [Load Balancer](https://github.com/Amandine21/Load-Balancer-)
    - [AWS Secured Static Website]
 - <b>Paella Point of Sale System</b>
    - [Project Design and Management](https://docs.google.com/document/d/1vxcXe8Xdb8K_RLmN4cRNHnzPfYylV7cM-h9z43QWqhU/edit)
